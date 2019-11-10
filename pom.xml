@@ -6,7 +6,7 @@
 
   <groupId>com.sugano.oop</groupId>
   <artifactId>OopSample</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>OopSample</name>
   <!-- FIXME change it to the project's website -->
@@ -69,6 +69,7 @@
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
+
       </plugins>
     </pluginManagement>
   </build>
