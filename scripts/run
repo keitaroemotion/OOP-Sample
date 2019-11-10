@@ -1,1 +1,2 @@
-java -cp target/OopSample-1.0.jar com.sugano.oop.App  
+mvn install
+java -jar target/OopSample-1.0.jar
