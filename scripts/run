@@ -1,0 +1,1 @@
+java -cp target/OopSample-1.0.jar com.sugano.oop.App  
