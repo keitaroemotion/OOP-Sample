@@ -11,11 +11,11 @@ public class Director
     public String construct()
     {
         return this
-                   .builder
-                       .setWall  ("Green")
-                       .setWindow("Transparent")
-                       .setRoof  ("red") 
-                       .getResult();
+            .builder
+            .setWall  ("Green")
+            .setWindow("Transparent")
+            .setRoof  ("red") 
+            .getResult();
     }
 }
 
