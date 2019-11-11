@@ -12,7 +12,5 @@ public abstract class Builder
     public abstract Builder setRoof  (String roof);
     public abstract Builder setWall  (String wall);
     public abstract Builder setWindow(String window);
-    public abstract String getResult();
+    public abstract String  getResult();
 }
-
-
