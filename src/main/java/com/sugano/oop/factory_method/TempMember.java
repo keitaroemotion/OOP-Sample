@@ -1,6 +1,6 @@
-package com.sugano.oop.factory;
+package com.sugano.oop.factory_method;
 
-public class AnnualMember extends Member
+public class TempMember extends Member
 {
     public void register()
     {

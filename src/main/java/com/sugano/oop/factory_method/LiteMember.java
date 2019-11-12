@@ -1,4 +1,4 @@
-package com.sugano.oop.factory;
+package com.sugano.oop.factory_method;
 
 public class LiteMember extends Member
 {
